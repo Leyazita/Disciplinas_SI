@@ -1,0 +1,12 @@
+FROM python:3.9-slim
+
+WORKDIR /app
+
+COPY cliente.py .
+
+RUN pip install matplotlib
+
+# Adicione esta linha para listar os arquivos e verificar se cliente.py está presente
+RUN ls -l /app
+
+CMD ["python", "cliente.py"]

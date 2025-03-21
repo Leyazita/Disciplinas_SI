@@ -1,0 +1,26 @@
+version: "3.8"
+
+services:
+  servidor_sequencial:
+    build:
+      context: .
+      dockerfile: Dockerfile.servidor
+    ports:
+      - "8080:8080"
+
+  servidor_paralelo:
+    build:
+      context: .
+      dockerfile: Dockerfile.servidor_paralelo
+    ports:
+      - "8081:8081"
+
+  cliente:
+    build:
+      context: .
+      dockerfile: Dockerfile.cliente
+    volumes:
+      - ./output:/app/output
+    depends_on:
+      - servidor_sequencial
+      - servidor_paralelo
