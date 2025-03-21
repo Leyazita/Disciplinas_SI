@@ -1,0 +1,41 @@
+ Distância entre UFPI e BEC é 2,8 km (1,7 miles)
+ Azimute do Norte Verdadeiro = 84,71°, Azimute do Norte Magnético = 106,72°, ângulo de elevação = 0,5398°
+ Variação de altitude é 0,0 m
+ Modo de propagação é linha de visada, espaço livre mínimo 25,8F1 a 1,3km
+ Freqüência média é 2441,750 MHz
+ Espaço Livre = 109,0 dB, Obstrução = 1,2 dB TR, Urbano = 0,0 dB, Floresta = 0,0 dB, Estatísticas = 4,2 dB
+ Perda total de propagação é 114,4 dB
+ Ganho do sistema de UFPI até BEC é 171,3 dB ( yagi.ant em 84,7 °0,54° ganho= 11,2 dBi )
+ Ganho do sistema de BEC a UFPI é 171,3 dB ( yagi.ant em 264,7 °-0,56° ganho= 4,0 dBi )
+ Pior recepção é 56,9 dB sobre o sinal necessário a encontrar
+ 70,000% de situações 
+
+--------------------------------------------------------------------------------------------------------------
+
+Nome do Sistema Transmissor = (Tx) YAGI
+Nome do Sistema Receptor (Rx) = YAGI
+Potência do Transmissor (Tx) = 50 dBm
+Ganho da Antena Tx  = 24 dBi (21,85 dBd)
+Ganho da Antena Rx  = 24 dBi
+Potência Radiada Efetiva Isotrópica (EIRP)  = 1,18 kW
+Potência Efetiva na Antena (ERP)  = 0,72 kW
+Perda de Linha  = 0.5 dB
+Sensibilidade do Receptor (Rx) = -107 dBm
+Frequência de Operação 2461 MHz a 2483 MHz
+--------------------------------------------------------------------------------------------------------------
+
+Campo E Requerido = 93,4 dBV/m
+Atenuação por Obstáculos = 114,4 dB
+Atenuação por Fresnel = 25,8 F1
+Atenuação por Floresta = 0 dB
+Distância do Enlace = 2,77 km
+Obstrução = 1,2 dB TR
+Estatísticas do Enlace = 4,2 dB, FRxrelativo = 56,9 dB
+Ângulo de Elevação = 0,540°
+Espaço livre = 1,3Km
+--------------------------------------------------------------------------------------------------------------
+
+Local do Transmissor (Tx) UFPI (Função: Mestre)
+Local do Receptor (Rx) BEC (Função: Escravo)
+Altura da Antena (Tx) 15 metros
+Altura da Antena (Rx) 15 metros
