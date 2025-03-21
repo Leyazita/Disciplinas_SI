@@ -1,0 +1,48 @@
+Os frameworks são importantíssimos, pois seu objetivo é fornecer ferramentas
+para facilitar o desenvolvimento do projeto em uma base estável. 
+
+1 - Django 
+
+    O Django é um framework de código aberto e escrito em Python que permite aos 
+desenvolvedores implementar aplicativos complexos de maneira rápida e eficiente. 
+Ele otimiza o desenvolvimento de aplicativos, possuindo uma variedade de bibliotecas
+para as quais exige uma menor necessidade de codificação e uma grande reutilização de componentes,
+o que garantirá consistência a projetos de médio e grande porte.
+
+2 - Flask, o micro-framework
+
+     É um framework web escrito em Python, baseado nas bibliotecas WSGI/
+Werkzeug e Jinja2, e inspirado na estrutura Sinatra Ruby. 
+O principal objetivo do framework é prover um modelo simples para desenvolvimento web,
+ao mesmo tempo que tem a flexibilidade no uso da linguagem Python.
+É chamado de micro-framework por manter um núcleo simples, mas estendível.
+
+3 - Web2py, framework Python autocontido
+
+    É um framework de código aberto e escrito em Python. 
+Ele permite aos desenvolvedores programarem conteúdo web dinâmico, reduzindo tarefas
+tediosas, como por exemplo o desenvolvimento de formulários web do zero, mesmo
+possibilitando a construção do zero se necessário. Um de seus principais objetivos
+é a agilidade no desenvolvimento de aplicações web seguras e baseadas em bancos de dados. 
+
+4 - CherryPy, para desenvolvimento ágil
+
+     É um framework de código aberto que incorpora um servidor de web com pool de threads,
+estrutura de instalação e módulos. Sua estrutura permite implementar aplicativos complexos
+de maneira rápida e eficiente, possuindo para tanto uma variedade de bibliotecas, exigindo 
+uma menor codificação e uma grande reutilização de componentes, garantindo assim uma consistência nos projetos.
+É um framework para desenvolvimento ágil de aplicações web, orientados a objetos, permitindo
+o uso de qualquer tipo de tecnologia para acesso a dados, modelos, etc. 
+Como ele é um framework extensível, permite que os desenvolvedores incorporem qualquer
+módulo Python e esqueçam, do ponto de vista técnico, que é uma aplicação para a web.
+
+5 - Bottle: o framework Python rápido, simples e leve
+
+    É um micro-framework WSGI rápido, simples e leve projetado e distribuído como um 
+módulo de arquivo único e sem dependências além da biblioteca padrão do Python. 
+Ele pode ser executado com Python 2.5+ e 3.x. Originalmente, foi desenvolvido para a criação de APIs Web,
+incluindo funcionalidades prontas para roteamento para URLs limpas e dinâmicas, suporte para templates mako,
+jinja2 e cheetah. Disponibiliza utilitários para formação de dados, upload de arquivos, facilita o trabalho
+com cookies, dados de headers e outros metadados relacionados ao HTTP, além de integrar e suportar diferentes
+servidores HTTP. A ideia principal do Bottle é que seja o mais simples possível, para que assim cresça de 
+acordo com a real necessidade do projeto, além de ser muito simples entender os seus conceitos.

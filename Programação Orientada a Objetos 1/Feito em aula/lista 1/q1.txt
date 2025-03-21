@@ -1,0 +1,19 @@
+Linguagens compiladas:
+
+As linguagens compiladas são convertidas diretamente na máquina em um código de máquina que o 
+processador pode executar. Como resultado, elas tendem a ser mais rápidas e mais eficientes em
+sua execução do que as linguagens interpretadas. Elas também dão ao desenvolvedor mais controle 
+sobre alguns aspectos do hardware, como o gerenciamento da memória e o uso da CPU.
+
+Exemplo de linguagens compiladas:  C, o C++, o Erlang, o Haskell, o Rust e o Go.
+
+Linguagens interpretadas:
+
+Os interpretadores passam por um programa linha por linha e executam cada comando. 
+É uma linguagem de programação em que o código fonte é executado por um programa de
+computador chamado interpretador, que em seguida é executado pelo sistema operacional 
+ou processador.
+
+Exemplo de linguagens interpretadas:  PHP, o Ruby, o Python e o JavaScript.
+
+Python é uma linguagem interpretada.
